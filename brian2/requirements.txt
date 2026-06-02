@@ -1,0 +1,7 @@
+# Functional validation of the signed-XOR motif
+# Tested with Python 3.10-3.12 on Linux / WSL (Ubuntu) and DGX.
+brian2>=2.7
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pytest>=7.0

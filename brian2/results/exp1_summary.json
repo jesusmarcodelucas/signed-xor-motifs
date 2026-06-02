@@ -1,0 +1,59 @@
+{
+  "deterministic_all_correct": true,
+  "spike_threshold": 2,
+  "noisy_seeds": 25,
+  "noisy_background_hz": 20.0,
+  "noisy_success_rate": 0.88,
+  "counts": {
+    "00": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "10": [
+      5,
+      0,
+      5,
+      0,
+      0,
+      4,
+      3,
+      0
+    ],
+    "01": [
+      0,
+      5,
+      0,
+      5,
+      0,
+      4,
+      0,
+      7
+    ],
+    "11": [
+      5,
+      5,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0
+    ]
+  },
+  "roles": [
+    "I",
+    "P",
+    "Li",
+    "Lp",
+    "INH",
+    "XOR",
+    "Fp",
+    "Fm"
+  ]
+}

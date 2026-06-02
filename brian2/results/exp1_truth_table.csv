@@ -1,0 +1,5 @@
+S1,S2,I,P,Li,Lp,INH,XOR,Fp,Fm,XOR_active,Fplus_active,Fminus_active,expected,correct
+0,0,0,0,0,0,0,0,0,0,0,0,0,homeostasis (no error),1
+1,0,5,0,5,0,0,4,3,0,1,1,0,under-shoot -> LTP (F+),1
+0,1,0,5,0,5,0,4,0,7,1,0,1,over-shoot -> LTD (F-),1
+1,1,5,5,0,0,8,0,0,0,0,0,0,homeostasis (matched),1

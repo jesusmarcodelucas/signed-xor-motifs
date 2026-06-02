@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Functional (spiking) validation of the signed-XOR neuronal motif"
+message: "If you use this software, please cite both the software and the associated preprint."
+type: software
+authors:
+  - family-names: "Marco de Lucas"
+    given-names: "Jesús"
+    affiliation: "Instituto de Física de Cantabria (IFCA), CSIC-Universidad de Cantabria"
+    email: jesus.marco@csic.es
+repository-code: "https://github.com/jesusmarcodelucas/signed-xor-motifs"
+license: CC-BY-NC-4.0
+version: "1.0.0"
+date-released: "2026-05-23"
+keywords:
+  - signed XOR motif
+  - spiking neural network
+  - leaky integrate-and-fire
+  - parvalbumin interneuron
+  - local error computation
+  - Allen V1 model
