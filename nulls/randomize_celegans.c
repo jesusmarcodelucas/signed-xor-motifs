@@ -430,12 +430,6 @@ static void randomize_layer(layer_t *L, int mixing){
 }
 
 /* ---------- write output ---------- *
- * After randomization, each layer's edgelist has updated dst[] values (the
- * src[] values are unchanged because the swap kernel only rewires destinations
- * — preserving each source neuron's out-degree per layer trivially, since
- * we never insert or delete an edge, only swap dst between two existing
- * edges of the same source... wait, actually we swap edges between two
- * DIFFERENT sources, so let me recheck:
  *
  * Square swap on edges (a->b) and (c->d) becomes (a->d) and (c->b).
  * Source a still has the same number of out-edges (one), it just goes to d
