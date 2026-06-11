@@ -35,7 +35,7 @@ OMP_NUM_THREADS=$(nproc) ./signed_xor_motif_count <edges.csv>
 
 No connectome data is included. Obtain the datasets from their original
 providers (MICrONS, FlyWire/FAFB, C. elegans / Cook et al.) under their
-respective terms, and supply your own edge-list CSV. See `../data/README.md`.
+respective terms, and supply your own edge-list CSV.
 
 ## Third-party
 
