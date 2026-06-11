@@ -3,7 +3,7 @@
 Code accompanying the preprint **"From homeostasis to credit assignment: a
 signed-XOR connectomic motif for local directional error signalling"**
 (M. Peña Fernández, A. González Ríos, L. Lloret Iglesias, J. Marco de Lucas;
-Instituto de Física de Cantabria, IFCA, CSIC–Universidad de Cantabria, 2026).
+Instituto de Física de Cantabria, IFCA, CSIC–Universidad de Cantabria, 2026) [https://doi.org/10.64898/2026.06.05.730322].
 
 The **signed-XOR motif** is an eight-neuron, twelve-edge directed signed
 circuit that extends a six-neuron XOR comparator with two feedback channels of
