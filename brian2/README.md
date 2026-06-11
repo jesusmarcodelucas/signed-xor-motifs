@@ -3,7 +3,7 @@
 A minimal, compiler-free **spiking** model of the 8-neuron *signed-XOR* motif,
 built from mouse-cortex (Allen Institute V1) cell types. It complements the
 structural graph analysis in the preprint *"A dynamical systems framework for
-signed XOR learning in biological circuits"* by answering a question the paper
+signed XOR learning in biological circuits"* (in preparation) by answering a question the paper
 explicitly leaves open:
 
 > *Does the motif actually compute the signed error when implemented with
