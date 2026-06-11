@@ -62,7 +62,7 @@ If you use this code, please cite the accompanying preprint:
              and Lloret Iglesias, Lara and Marco de Lucas, Jes{\'u}s},
   journal = {bioRxiv},
   year    = {2026},
-  doi     = {[DOI]}
+  doi     = {[https://doi.org/10.64898/2026.06.05.730322]}
 }
 ```
 
