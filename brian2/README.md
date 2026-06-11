@@ -145,4 +145,4 @@ See `CITATION.cff`. Please cite the associated preprint and this software.
 
 ## License
 
-MIT — see `LICENSE`.
+CC-by-NC 4.0 — see `LICENSE`.
