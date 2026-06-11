@@ -32,7 +32,7 @@ swaps, number of nulls, random seed).
 ## Data
 
 No connectome data is included. Supply your own edge-list CSV obtained from the
-original provider under its terms. See `../data/README.md`.
+original provider under its terms. 
 
 ## Third-party
 
